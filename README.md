@@ -18,4 +18,4 @@ The deployment is done on Google Cloud Platform.
   
 ![WhatsApp Image 2021-08-27 at 19 48 17](https://user-images.githubusercontent.com/68823461/131143054-8dc446a1-ae4f-492d-b15e-5125bad0a703.jpeg)  
   
-Website link  : car-price-prediction-316112.el.r.appspot.com  
+Website link  : https://car-price-prediction-316112.el.r.appspot.com/    
