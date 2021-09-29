@@ -3,7 +3,9 @@
 This is a web app which predicts fares of flight.  
 Random Forest Regressor is the algorithm used and the code is written in Python in the Jupyter Notebook Environment.  
 The web app is developed using Flask.  
-The deployment is done on Google Cloud Platform.
+The deployment is done on Google Cloud Platform.  
+  
+  
 # <h2> Screenshots :  
   
 1.  
